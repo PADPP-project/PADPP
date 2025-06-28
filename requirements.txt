@@ -1,0 +1,16 @@
+accelerate
+wandb
+transformers
+loguru
+scipy
+matplotlib
+pyyaml
+pandas
+scikit-learn
+python-dotenv
+nltk
+openai==0.28
+tenacity
+fschat[model_worker,webui]
+rouge
+google-api-python-client
